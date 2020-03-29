@@ -1,0 +1,48 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# Loading project lab3
+do dlx_register.do
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui 
+# Start time: 00:34:21 on Mar 20,2020
+# Loading std.standard
+# Loading work.bv_arithmetic(body)
+# Loading work.dlx_types
+# Loading work.dlx_register(behavior1)
+do reg_file.do
+# vsim 
+# Start time: 00:34:34 on Mar 20,2020
+# Loading std.standard
+# Loading work.bv_arithmetic(body)
+# Loading work.dlx_types
+# Loading work.reg_file(behavior1)
+do mux.do
+# vsim 
+# Start time: 00:34:45 on Mar 20,2020
+# Loading std.standard
+# Loading work.bv_arithmetic(body)
+# Loading work.dlx_types
+# Loading work.mux(behavior1)
+do pcplusone.do
+# vsim 
+# Start time: 00:34:57 on Mar 20,2020
+# Loading std.standard
+# Loading work.bv_arithmetic(body)
+# Loading work.dlx_types
+# Loading work.pcplusone(behavior1)
